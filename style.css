@@ -390,7 +390,7 @@ body {
   }
 
   .hero-info {
-    margin-top: 0;
+    margin-top: 10px;
     order: 2;
   }
 
@@ -443,7 +443,7 @@ body {
   }
 
   .background-heading {
-    font-size: 6vw;
+    font-size: 8vw;
     top: 15%;
   }
 } 
