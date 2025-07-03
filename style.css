@@ -467,7 +467,8 @@ body {
   }
 
   .background-heading {
-    display: none;
+    font-size: 6vw;
+    top: 15%;
   }
 }
 
