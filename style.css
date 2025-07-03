@@ -382,7 +382,7 @@ body {
 
 
 /* responsive */
-  @media (min-width: 768px) {
+  @media (max-width: 991px) {
   .hero-section {
     flex-direction: column;
     padding: 60px 5% 0;
@@ -443,7 +443,7 @@ body {
   }
 
   .background-heading {
-    font-size: 8vw;
+    font-size: 6vw;
     top: 15%;
   }
 } 
@@ -467,8 +467,7 @@ body {
   }
 
   .background-heading {
-    font-size: 6vw;
-    top: 15%;
+    display: none;
   }
 }
 
